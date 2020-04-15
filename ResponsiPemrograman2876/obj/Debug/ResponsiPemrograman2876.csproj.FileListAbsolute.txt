@@ -1,0 +1,7 @@
+C:\Fahren\Repos\ResponsiPemrograman2876\ResponsiPemrograman2876\bin\Debug\ResponsiPemrograman2876.exe.config
+C:\Fahren\Repos\ResponsiPemrograman2876\ResponsiPemrograman2876\bin\Debug\ResponsiPemrograman2876.exe
+C:\Fahren\Repos\ResponsiPemrograman2876\ResponsiPemrograman2876\bin\Debug\ResponsiPemrograman2876.pdb
+C:\Fahren\Repos\ResponsiPemrograman2876\ResponsiPemrograman2876\obj\Debug\ResponsiPemrograman2876.csprojAssemblyReference.cache
+C:\Fahren\Repos\ResponsiPemrograman2876\ResponsiPemrograman2876\obj\Debug\ResponsiPemrograman2876.csproj.CoreCompileInputs.cache
+C:\Fahren\Repos\ResponsiPemrograman2876\ResponsiPemrograman2876\obj\Debug\ResponsiPemrograman2876.exe
+C:\Fahren\Repos\ResponsiPemrograman2876\ResponsiPemrograman2876\obj\Debug\ResponsiPemrograman2876.pdb
