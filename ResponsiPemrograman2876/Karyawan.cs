@@ -16,7 +16,7 @@ namespace ResponsiPemrograman2876
             this.nama=nama;
             if(gajibulanan<0){
                 this.nik="0";
-                Console.WriteLine("Maaf Gaji Yang Anda Masukkan Tidak boleh Kurang Dari 0");
+                Console.WriteLine("Maaf gaji yang anda diinputkan tidak boleh dari 0");
             }
             else{
             this.gajibulanan=gajibulanan;
